@@ -1,0 +1,17 @@
+# Archivos temporales de RPG Maker XP
+/Game.rgss3a
+/Game.ini
+/Game.rxproj
+
+# Archivos de copia de seguridad generados automáticamente
+*.bak
+*.log
+
+# Carpetas de backup
+/Backup/
+/Autosave/
+/Save/
+
+# Archivos de caché de RPG Maker
+*.cache
+*.tmp
