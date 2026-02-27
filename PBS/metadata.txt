@@ -1,0 +1,33 @@
+﻿[000]
+WildVictoryME=Victory - Wild Pokemon.ogg
+WildBattleBGM=Battle! (Wild Pokemon)
+BicycleBGM=Bike
+SurfBGM=Surf
+TrainerVictoryME=Victory - Trainer.ogg
+TrainerBattleBGM=Battle! (Trainer)
+PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_surf_offset,girl_fish_offset,girl_fish_offset
+PlayerA=POKEMONTRAINER_Red,boy_run.png,boy_bike,boy_surf_offset,boy_run,boy_surf_offset,boy_fish_offset,boy_fish_offset
+Home=4,22,5,2
+[001]
+# Perales
+Outdoor=true
+ShowArea=true
+MapPosition=0,13,11
+[002]
+# Intro
+Outdoor=true
+ShowArea=true
+MapPosition=0,13,10
+[003]
+# Laboratorio
+BattleBack=IndoorB
+HealingSpot=2,8,8
+MapPosition=0,13,9
+[004]
+# CasaPrincipal
+MapPosition=0,13,8
+[005]
+# Ruta 1
+Outdoor=true
+ShowArea=true
+MapPosition=0,13,7
