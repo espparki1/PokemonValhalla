@@ -1,6 +1,6 @@
 ﻿[0]
 Name=Región Essen
-Filename=mapRegion0.png
+Filename=mapRegionNexia.png
 Point=13,12,"Pueblo Empanada","Lab. de Oak",2,8,8,
 Point=13,11,"Ruta 1",,,,,
 Point=13,10,"Ciudad Milanesa","Centro Comercial Milanesa",7,47,11,
