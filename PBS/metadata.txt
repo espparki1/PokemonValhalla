@@ -12,22 +12,27 @@ Home=4,22,5,2
 # Perales
 Outdoor=true
 ShowArea=true
-MapPosition=0,13,11
+
 [002]
 # Intro
 Outdoor=true
 ShowArea=true
-MapPosition=0,13,10
+
 [003]
 # Laboratorio
 BattleBack=IndoorB
 HealingSpot=2,8,8
-MapPosition=0,13,9
+
 [004]
 # CasaPrincipal
-MapPosition=0,13,8
+
 [005]
 # Ruta 1
 Outdoor=true
 ShowArea=true
-MapPosition=0,13,7
+
+[007]
+# Academia Noob
+Outdoor=true
+ShowArea=true
+MapPosition=0,1,13
