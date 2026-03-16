@@ -3,6 +3,12 @@
 /Game.ini
 /Game.rxproj
 
+# Archivos que se generan automáticamente
+Data/Constants.rxdata
+Data/messages.dat
+Data/PkmAnimations.rxdata
+Data/MapChecker.dat
+
 # Archivos de copia de seguridad generados automáticamente
 *.bak
 *.log
