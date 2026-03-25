@@ -260,5 +260,12 @@ Outdoor=true
 ShowArea=true
 MapPosition=0,10,16
 
+[046]
+# Academia Noob
+Outdoor=true
+ShowArea=true
+MapPosition=0,1,13
+
+
 
 
