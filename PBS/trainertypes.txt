@@ -72,4 +72,4 @@
 70,ELITEFOUR_Lance,Alto Mando,100,Battle! (Gym Leader),,,Male,,
 71,CHAMPION,Campeón,100,Battle! (Champion),,,Male,,
 72,CAMPISTA,CAMPISTA,30,,,,Male,,
-73,ENTRENADOR,Profesora Soraya,32,,,,Female,
+73,ENTRENADOR,Profesora,32,,,,Female,
