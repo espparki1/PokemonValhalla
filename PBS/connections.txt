@@ -1,2 +1,4 @@
-# Perales (1) - Ruta 1 (5)
+# Perales (1) - Ruta Ejemplo (5)
 1,West,0,5,East,0
+# Ruta 1 (8) - Academia Noob (7)
+8,South,0,7,North,0

@@ -1,271 +1,219 @@
 ﻿[000]
-WildVictoryME=Victory - Wild Pokemon.ogg
-WildBattleBGM=Battle! (Wild Pokemon)
-BicycleBGM=Bike
-SurfBGM=Surf
-TrainerVictoryME=Victory - Trainer.ogg
-TrainerBattleBGM=Battle! (Trainer)
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_surf_offset,girl_fish_offset,girl_fish_offset
 PlayerA=POKEMONTRAINER_Red,boy_run.png,boy_bike,boy_surf_offset,boy_run,boy_surf_offset,boy_fish_offset,boy_fish_offset
+WildBattleBGM=Battle! (Wild Pokemon)
+BicycleBGM=Bike
+TrainerBattleBGM=Battle! (Trainer)
+WildVictoryME=Victory - Wild Pokemon.ogg
+TrainerVictoryME=Victory - Trainer.ogg
 Home=4,22,5,2
+SurfBGM=Surf
 [001]
 # Perales
 Outdoor=true
 ShowArea=true
-
 [002]
 # Intro
 Outdoor=true
 ShowArea=true
-
 [003]
 # Laboratorio
 BattleBack=IndoorB
 HealingSpot=2,8,8
-
 [004]
 # CasaPrincipal
-
-[008]
-# Ruta 1
-Outdoor=true
-ShowArea=true
-MapPosition=0,1,11
-
 [007]
 # Academia Noob
-Outdoor=true
-ShowArea=true
 MapPosition=0,1,13
-
-[009]
-# Bosque Quiero y No Puedo
 Outdoor=true
 ShowArea=true
+[008]
+# Ruta 1
+MapPosition=0,1,11
+Outdoor=true
+ShowArea=true
+[009]
+# BosqueQuieroYNoPuedo
 MapPosition=0,1,9
-
+Outdoor=true
+ShowArea=true
 [010]
 # Ruta 2
+MapPosition=0,2,9
 Outdoor=true
 ShowArea=true
-MapPosition=0,2,9
-
 [011]
 # Ruta 3
+MapPosition=0,2,8
 Outdoor=true
 ShowArea=true
-MapPosition=0,2,8
-
 [012]
 # Ruta 4
+MapPosition=0,7,9
 Outdoor=true
 ShowArea=true
-MapPosition=0,7,9
-
 [013]
 # Ruta 5
+MapPosition=0,13,9
 Outdoor=true
 ShowArea=true
-MapPosition=0,13,9
-
 [014]
 # Ruta 6
+MapPosition=0,15,7
 Outdoor=true
 ShowArea=true
-MapPosition=0,15,7
-
 [015]
 # Ruta 7
+MapPosition=0,6,7
 Outdoor=true
 ShowArea=true
-MapPosition=0,6,7
-
 [016]
 # Ruta 8
+MapPosition=0,7,2
 Outdoor=true
 ShowArea=true
-MapPosition=0,7,2
-
 [017]
 # Ruta 9
-Outdoor=true
-ShowArea=true
 MapPosition=0,10,4
-
-[044]
-# Ruta 9
 Outdoor=true
 ShowArea=true
-MapPosition=0,13,5
-
 [018]
 # Ruta 10
+MapPosition=0,10,13
 Outdoor=true
 ShowArea=true
-MapPosition=0,10,13
-
 [019]
 # Ruta 12
+MapPosition=0,23,6
 Outdoor=true
 ShowArea=true
-MapPosition=0,23,6
-
 [020]
 # Ruta 13
+MapPosition=0,21,18
 Outdoor=true
 ShowArea=true
-MapPosition=0,21,18
-
 [021]
 # Entrada a la capital del reino
+MapPosition=0,2,4
 Outdoor=true
 ShowArea=true
-MapPosition=0,2,4
-
 [022]
 # Descenso al paramo
+MapPosition=0,26,18
 Outdoor=true
 ShowArea=true
-MapPosition=0,26,18
-
 [023]
 # Senda de las trialeras
-Outdoor=true
-ShowArea=true
 MapPosition=0,10,8
-
+Outdoor=true
+ShowArea=true
 [024]
-# Sierra del Manto Helado
-Outdoor=true
-ShowArea=true
+# Sierra del manto helado
 MapPosition=0,15,0
-
+Outdoor=true
+ShowArea=true
 [025]
-# Villa Peral
-Outdoor=true
-ShowArea=true
+# Villa peral
 MapPosition=0,5,9
-
-[026]
-# Resort Peras
 Outdoor=true
 ShowArea=true
+[026]
+# Resort peras
 MapPosition=0,10,9
-
+Outdoor=true
+ShowArea=true
 [027]
 # Calle Victoria
-Outdoor=true
-ShowArea=true
 MapPosition=0,26,3
-
-[028]
-# Liga Pokémon
 Outdoor=true
 ShowArea=true
+[028]
+# Liga Pokemon
 MapPosition=0,29,1
-
+Outdoor=true
+ShowArea=true
 [029]
 # Piltover
+MapPosition=0,18,18
 Outdoor=true
 ShowArea=true
-MapPosition=0,18,18
-
 [030]
 # Distrito Rojo
+MapPosition=0,6,0
 Outdoor=true
 ShowArea=true
-MapPosition=0,6,0
-
 [031]
 # Leyndell
-Outdoor=true
-ShowArea=true
 MapPosition=0,2,2
-
+Outdoor=true
+ShowArea=true
 [032]
-# Bosque de Cerezos
-Outdoor=true
-ShowArea=true
+# Bosque de cerezos
 MapPosition=0,6,4
-
-[033]
-# Aldea UwU
 Outdoor=true
 ShowArea=true
+[033]
+# Aldea Uwu
 MapPosition=0,10,2
-
+Outdoor=true
+ShowArea=true
 [034]
 # Bolarque
+MapPosition=0,12,4
 Outdoor=true
 ShowArea=true
-MapPosition=0,12,4
-
 [035]
 # Hogsmeade
+MapPosition=0,20,0
 Outdoor=true
 ShowArea=true
-MapPosition=0,20,0
-
 [036]
 # Zaun
-Outdoor=true
-ShowArea=true
 MapPosition=0,24,18
-
-[037]
-# Night City
 Outdoor=true
 ShowArea=true
+[037]
+# NightCity
 MapPosition=0,15,9
-
+Outdoor=true
+ShowArea=true
 [038]
 # Terra Fraude
-Outdoor=true
-ShowArea=true
 MapPosition=0,15,5
-
-[039]
-# Desierto Arcano
 Outdoor=true
 ShowArea=true
+[039]
+# Desierto arcano
 MapPosition=0,27,18
-
+Outdoor=true
+ShowArea=true
 [040]
 # Puerto Piltover
+MapPosition=0,20,16
 Outdoor=true
 ShowArea=true
-MapPosition=0,20,16
-
 [041]
 # Ciudad All Valley
+MapPosition=0,3,6
 Outdoor=true
 ShowArea=true
-MapPosition=0,3,6
-
 [042]
 # Monte Valhalla
-Outdoor=true
-ShowArea=true
 MapPosition=0,12,8
-
+Outdoor=true
+ShowArea=true
 [043]
-# WonderWorld
-Outdoor=true
-ShowArea=true
+# Wonderworld
 MapPosition=0,8,7
-
+Outdoor=true
+ShowArea=true
 [044]
-# Isla File
-Outdoor=true
-ShowArea=true
+# Ruta 9.1
 MapPosition=0,10,16
-
-[046]
-# Academia Noob
 Outdoor=true
 ShowArea=true
+[046]
+# Academia Noob Interior
 MapPosition=0,1,13
-
-
-
-
+Outdoor=true
+ShowArea=true
