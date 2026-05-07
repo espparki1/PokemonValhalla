@@ -6,7 +6,7 @@ BicycleBGM=Bike
 TrainerBattleBGM=Battle! (Trainer)
 WildVictoryME=Victory - Wild Pokemon.ogg
 TrainerVictoryME=Victory - Trainer.ogg
-Home=4,22,5,2
+Home=46,39,28,2
 SurfBGM=Surf
 [001]
 # Perales
@@ -14,7 +14,7 @@ Outdoor=true
 ShowArea=true
 [002]
 # Intro
-Outdoor=true
+Outdoor=false
 ShowArea=true
 [003]
 # Laboratorio
@@ -215,5 +215,5 @@ ShowArea=true
 [046]
 # Academia Noob Interior
 MapPosition=0,1,13
-Outdoor=true
+Outdoor=false
 ShowArea=true
