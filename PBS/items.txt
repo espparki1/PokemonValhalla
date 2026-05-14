@@ -765,5 +765,5 @@
 774,NAIVEMINT,Menta Ingenua,Mentas Ingenuas,2,9800,"Cuando un Pokémon percibe su aroma, aumenta con más facilidad su Velocidad, en detrimento de su Defensa Especial.",1,0,0,
 775,SERIOUSMINT,Mentas Serias,Mentas Serias,2,9800,"Cuando un Pokémon percibe su aroma, su Ataque, su Defensa, su Ataque Especial, su Defensa Especial y su Velocidad crecen de forma uniforme.",1,0,0,
 
-
+776,PACKAGE,Paquete Misterioso,Paquetes Misteriosos,8,0,"Un paquete entregado por el Profesor Cano. ¿Qué tendrá en su interior?",0,0,6,
 
