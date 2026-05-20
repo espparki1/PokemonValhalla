@@ -75,4 +75,4 @@
 73,ENTRENADOR,Profesora,32,,,,Female,,
 74,CANI,Cani,34,Battle CaniChoniBro,,,Male,,
 75,BRO,Bro,32,Battle CaniChoniBro,,,Male,,
-76,CHONI,Choni,36,Battle CaniChoniBro,,,Female,,
+76,CHONI,Choni,30,Battle CaniChoniBro,,,Female,,
