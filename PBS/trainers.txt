@@ -27,8 +27,8 @@ ELECTABUZZ,20,,,,,,,,,,,,,,true
 YOUNGSTER
 Ben
 2
-RATTATA,11
-EKANS,11
+RATTATA,1
+EKANS,1
 #-------------------
 CAMPER
 Jeff

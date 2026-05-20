@@ -1,4 +1,6 @@
-# Ruta 1 (8) - Academia Noob (7)
+# Ruta 1 (8) - Academia Noob Exterior (7)
 8,South,0,7,North,0
-# BosqueQuieroYNoPuedo (9) - Ruta 1 (8)
+# Bosque Quiero y No Puedo (9) - Ruta 1 (8)
 9,South,0,8,North,0
+# Ruta 2 (10) - Bosque Quiero y No Puedo (9)
+10,West,0,9,East,0
