@@ -9,3 +9,8 @@ CANI
 Er Joni
 1
 PIDGEY,2
+#-------------------
+SEÑOR
+Rodríguez
+1
+PIDGEY,2
