@@ -76,3 +76,5 @@
 74,CANI,Cani,34,Battle! (Gym Leader),,,Male,,
 75,BRO,Bro,32,Battle CaniChoniBro,,,Male,,
 76,CHONI,Choni,30,Battle CaniChoniBro,,,Female,,
+77,POKI,Poki,35,Battle CaniChoniBro,,,Male,,
+78,BAKALA,Bakala,31,Battle CaniChoniBro,,,Male,,

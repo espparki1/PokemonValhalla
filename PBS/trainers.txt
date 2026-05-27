@@ -8,7 +8,42 @@ PIDGEY,6
 CANI
 Er Joni
 1
-PIDGEY,2
+METAPOD,2
+#-------------------
+POKI
+Er Richi
+1
+PIKACHU,4
+#-------------------
+BAKALA
+Juanlu
+1
+WURMPLE,2
+#-------------------
+CHONI
+La Yessi
+1
+CATERPIE,2
+#-------------------
+CHONI
+La Raquel
+1
+BIDOOF,2
+#-------------------
+CHONI
+La Karen
+1
+SUNKERN,2
+#-------------------
+BRO
+Six Seven
+1
+PATRAT,2
+#-------------------
+BRO
+Lil Soca
+1
+YUNGOOS,2
 #-------------------
 SEÑOR
 Rodríguez
