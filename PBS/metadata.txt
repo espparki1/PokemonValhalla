@@ -1,13 +1,13 @@
 ﻿[000]
-WildVictoryME=Victory - Wild Pokemon.ogg
+BicycleBGM=Bike
+SurfBGM=Surf
 WildBattleBGM=Battle! (Wild Pokemon)
+TrainerVictoryME=Victory - Trainer.ogg
+Home=47,15,9,2
+WildVictoryME=Victory - Wild Pokemon.ogg
+TrainerBattleBGM=Battle! (Trainer)
 PlayerB=POKEMONTRAINER_Leaf,trchar001,girl_bike,girl_surf_offset,girl_run,girl_surf_offset,girl_fish_offset,girl_fish_offset
 PlayerA=POKEMONTRAINER_Red,boy_run.png,boy_bike,boy_surf_offset,boy_run,boy_surf_offset,boy_fish_offset,boy_fish_offset
-Home=47,15,9,2
-SurfBGM=Surf
-BicycleBGM=Bike
-TrainerBattleBGM=Battle! (Trainer)
-TrainerVictoryME=Victory - Trainer.ogg
 [001]
 # Perales
 ShowArea=true
@@ -158,7 +158,7 @@ ShowArea=true
 MapPosition=0,10,2
 Outdoor=true
 [034]
-# Bolarque
+# Lago de Bolarque
 ShowArea=true
 MapPosition=0,12,4
 Outdoor=true
@@ -203,7 +203,7 @@ ShowArea=true
 MapPosition=0,12,8
 Outdoor=true
 [043]
-# Wonderworld
+# Warnerworld
 ShowArea=true
 MapPosition=0,8,7
 Outdoor=true
